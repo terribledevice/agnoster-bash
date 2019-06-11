@@ -1,4 +1,9 @@
 # agnoster-bash
+
+Updated with some of my own preferences, like including the fonts directory and a iTerm theme for macos. 
+
+Original info for this shell theme: 
+
 Agnoster Theme for Bash
 
 agnoster's Theme - https://gist.github.com/3712874
