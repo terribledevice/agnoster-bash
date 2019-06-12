@@ -19,6 +19,8 @@ Fixed the virtualenv prompt in bash
 
 # README
 
+*I've included this folder in my setup, but for the latest version or updates, check out the links below:
+
 In order for this theme to render correctly, you will need a
 [Powerline-patched font](https://gist.github.com/1595572).
 I recommend: https://github.com/powerline/fonts.git
